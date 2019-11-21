@@ -1,0 +1,48 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "name": "Game of Thrones",
+      "price": 540,
+      "author": "G.R.R Martin"
+    },
+    {
+      "id": 2,
+      "name": "Harry Potter and the Sourcer's stone",
+      "price": 230,
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": 3,
+      "name": "The tale of two cities",
+      "price": 150,
+      "author": "Christopher Doyle"
+    },
+    {
+      "id": 4,
+      "name": "To kill a mocking bird",
+      "price": 150,
+      "author": "Harper Lee"
+    },
+    {
+      "id": 5,
+      "name": "Kite Runner",
+      "price": 120,
+      "author": "Khalid Hossine"
+    },
+    {
+      "name": "The Vision Espier",
+      "author": "Rohit Omar",
+      "price": "120",
+      "id": 6
+    }
+  ],
+  "User":[
+    {"username":"Rohit Omar",
+    "password":"password"},
+    {"username":"User1",
+    "password":"password"},
+    {"username":"User2",
+    "password":"password"}
+  ]
+}

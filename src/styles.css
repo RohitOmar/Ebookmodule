@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+.blinking{
+    animation:blinkingText 1s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: red; }
+    50%{    color: blue; }
+    99%{    color:green;  }
+    100%{   color: #000;    }
+}
+
+
+
